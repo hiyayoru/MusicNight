@@ -1,0 +1,43 @@
+body {
+	overflow: hidden;
+}
+
+.background {
+  			position: absolute;
+
+  			top: -50px;
+  			right: -50px;
+  			bottom: -50px;
+  			left: -50px;
+
+  			background-image: url("Asian-Background.jpg");
+  			background-position: center center;
+  			background-size: cover;
+
+  			filter: blur(5px);
+  		}
+
+@font-face { font-family: Aquire; src: url('AquireLight-YzE0o.otf') }
+h1 {
+	position: absolute;
+	top: 50px;
+	right: 0;
+	left: 0;
+	color: white;
+	font-family: Aquire;
+	font-size: 100px;
+	text-align: center;
+}
+
+.genres {
+	font-familY: Aquire;
+	font-size: 100px;
+}
+
+.lofi {
+	position: absolute;
+	top: 250px;
+	
+	font-size: 100px;
+}
+
