@@ -9,16 +9,28 @@
   	<title>Music Night</title>
 
   	<link rel="stylesheet" href="Music Website.css">
+
   </head>
  <body>
 
  	<div class="background"></div>
 
     <div class="title">
-    	<h1>Music Night</h1>
+
+    	
+
     </div>
+
     <div class="genres">
-    		<h2 class="lofi">Lofi</h2>
+
+			<div class="grid-container">
+				<h1 class="grid-title">Music Night</h1>
+				<div class="genre-item">Lofi</div>
+				<div class="genre-item">Rock</div>
+				<div class="genre-item">日本語</div>
+				<div class="genre-item">Dance</div>
+			</div>
+    		
 
     </div>
 
